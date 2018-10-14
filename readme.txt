@@ -1,4 +1,5 @@
 Git is a distribute version control system.
 GIt 000 is free software distrubuted under the GPL.
 Git has a mutable index called state.::
-Git tracks changes.
+Git tracks of changes.
+
