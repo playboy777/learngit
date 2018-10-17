@@ -5,4 +5,5 @@ Git tracks of changes.
 Create a new branch is quick.
 Creating a new branch is quick and simple.
 git merge --no-ff -m "test merge"
-bug fixed.
+bug fixed
+git bug fix test
